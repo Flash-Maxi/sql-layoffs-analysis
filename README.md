@@ -30,6 +30,15 @@ The goal was to convert raw, inconsistent data into a structured format and deri
 
 ---
 
+## 🧠 Skills Demonstrated
+- SQL (CTEs, Window Functions, Joins)
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Power BI Dashboarding
+- Data Storytelling
+
+---
+
 ## 🧹 Data Cleaning (SQL)
 
 The raw dataset contained duplicates, inconsistent formatting, and missing values. The following steps were performed:
