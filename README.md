@@ -128,10 +128,10 @@ sql-powerbi-layoffs-analysis/
 
 ## 🎯 Key Insights
 
-* Layoffs peaked significantly during 2022–2023
-* A small number of companies contributed heavily to total layoffs
-* The United States recorded the highest layoffs among all countries
-* Layoffs trends showed strong temporal patterns across months and years
+- Layoffs peaked sharply during 2022–2023, indicating post-pandemic correction
+- United States contributed the highest share of layoffs globally
+- A small number of tech companies accounted for a large portion of layoffs
+- Layoffs show clear time-based patterns rather than random distribution
 
 ---
 
